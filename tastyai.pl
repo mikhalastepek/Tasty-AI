@@ -40,7 +40,7 @@ ingredient(salmon)
 ingredient(shrimp)
 ingredient(ground_turkey)
 ingredient(steak)
-Ingredient(bacon)
+ingredient(bacon)
 
 ingredient(black_beans)
 ingredient(rice_noodles)
